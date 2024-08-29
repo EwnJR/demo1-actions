@@ -4,7 +4,7 @@ jobs:
 premierJob:
   runs-on: ubuntu-latest
 steps:
-- name:Mon premier job
+- name: Mon premier job
 run: echo "Démarrage du job"
 - name: Mes premieres instructions
 run: ls /
